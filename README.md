@@ -6,7 +6,7 @@
 
 Algorithmic Trading Competition | ~23,000 registered competitors 
 
-| Round            | Overall rank | Algo | Manual |  PnL                                 |
-|------------------|--------------|------|--------|--------------------------------------|
-| Round 1          | 2300         | 3483 | 1      |164,930                               |
-| Round 2          | 37           | 22   | 127    |506,900 (#2 in the world for algo pnl)|
+| Round            | Overall rank | Algo Rank | Manual Rank |UK Rank |  PnL                                 |
+|------------------|--------------|------|--------|-|-------------------------------------|
+| Round 1          | 2300th         | 3483rd | 1st      |248th |164,930                               |
+| Round 2          | 37th           | 22nd   | 127th    |7th |506,900 (#2 in the world for algo pnl)|
