@@ -13,3 +13,5 @@ Algorithmic Trading Competition | ~23,000 registered competitors
 | Intermission      | ~~~~           |~~~~    |~~~~      |~~~~|~~~~~ |
 | Round 4          | 134th | 119th | 541st | 15th| $241,862 |
 | Round 5 | 105th | 137th | 439th | 12th | $440,167 |
+
+<sub><i> We weren't able to focus on the competition much after Round 2 due to exams & other personal issues </i></sub>
